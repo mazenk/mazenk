@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+
+A{text-decoration:none; color:black;}
+
+.textbox
+{
+  width: 230px;
+    border: 25px black;
+    margin: 70px;
+} 
+
+</style>
+	<title> Reese Takkunen
+	</title>
+</head>
+<body>
+  <i>	<a style="text-align:left;font-size:30px;margin-left:10px;color:black" href="RT.html">
+	REESE TAKKUNEN</a> 
+
+<a style="text-align:left;font-size:12px;margin-left:10px" href="RT_ABOUT.html">
+    ABOUT <a>
+    
+  <a style="text-align:left;font-size:12px;margin-left:10px" href="RT.html">
+    GALLERY <a>
+
+<p class="textbox">
+
+111 111 1111
+
+contact@reesetakkunen.com
+
+www.reesetakkunen.com
+
+</p> </i>
+
+</div>
+
+</body>
+</html>
