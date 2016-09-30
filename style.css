@@ -1,7 +1,7 @@
 h1  {
     text-align: center;
     font-size: 50px;
-    margin: 30px;
+    margin: 20px 0 15px 0;
     }
 p   {
     text-align: center;
@@ -10,6 +10,7 @@ a   {
     color:black;
     text-decoration: none;
     }
+
 .h1 {
     color:black;
     text-decoration: none;
@@ -37,6 +38,7 @@ a   {
     font-family: 'EB Garamond', serif;
     text-decoration: none;
     margin: auto;
+    margin-top: 35px;
     background-color: #f9f9f9;
     padding: 10px;
     }
@@ -48,11 +50,17 @@ a   {
     font-family: 'EB Garamond', serif;
     text-decoration: none;
     margin: auto;
+    margin-top: 35px;
     background-color: #f9f9f9;
     padding: 10px;
     }
 
 .image{
-    padding: 20px
+    position:relative;
+    width: 33%;
+    height: 33%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
