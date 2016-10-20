@@ -1,1 +1,1 @@
-Mobile Responsiveness HW
+Adaptive Mobile Design
