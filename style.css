@@ -1,7 +1,7 @@
     h1 {
     text-align: center;
     font-size: 80px;
-    margin:180px 0 60px 0;
+    margin:240px 0 60px 0;
     color:black;
     text-decoration: none;
     font-weight: normal;
@@ -10,7 +10,7 @@
 
     h2  {
     text-align: left;
-    font-size: 40px;
+    font-size: 38px;
     margin:25px 0 12px 28px;
     color:black;
     text-decoration: none;
@@ -73,10 +73,10 @@
 
     .button2 {
     border: none;
-    margin: 0px 10px 0 26px;
+    margin: 0px 10px 0 24px;
     padding: 0px 5px 3px 5px;
     color:black;
-    font-size:21px;
+    font-size:20px;
     text-decoration: none;
     font-family: 'EB Garamond', serif; 
 
@@ -198,11 +198,7 @@
         display: block;
         width:100%;
         padding: 10px 0 10px 0;
-   
     }
-
-
- 
     .flag{
         width:9%;
         margin:0 6px 0 0;
@@ -289,10 +285,6 @@
     .datatable {
     margin: 40px 0 0 75px;
     }
-    .button2 {
-        font-size: 21px;
-        margin: 0 0 0 35px;
-    }
 
     .button {
     padding: 16px;
@@ -315,6 +307,18 @@
     .th {
         text-align: center;
         font-size: 18px;
+    }
+    h2 {
+        text-align: center;
+        margin-left: 8px;
+    }
+    
+    header{
+        text-align: center;
+    }
+
+    .button2 {
+        margin: 0px 15px 0 15px;
     }
 
     }
